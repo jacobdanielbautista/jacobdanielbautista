@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jacobdanielbautista
-- 👀 I’m interested in front end web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on front end projects
-- 📫 Reach me on: jacobdanielbautista@gmail.com
+- Hello there! I’m Jacob Daniel Bautista
+- I’m interested in front end web development
+- I’m currently learning HTML, CSS, JavaScript
+- I’m looking to collaborate on front end projects
+- Reach me on: jacobdanielbautista@gmail.com
